@@ -1,0 +1,267 @@
+body {
+  margin: 0;
+}
+
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding: 18px 10px;
+  height: 10px;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+nav .left-nav {
+  float: left;  
+}
+
+nav .right-nav-links {
+  float: right;  
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.right-nav-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.npm-logo {
+  height: 40px;
+  width: auto;
+  margin: 10px 20px;
+}
+
+.search {
+  display: inline;  
+}
+
+#search-bar {
+  height: 40px;
+  width: 1100px;
+  background-color: rgb(31, 82, 111);  
+  margin: 10px 0;
+  border-color: gray;
+  border-style: solid;
+}
+
+.search-btn {  
+  height: 46px;
+  width: 40px;
+  color: white;
+  background-color: rgb(31, 82, 111);
+  border-color: gray;
+  border-style: solid;
+}
+
+.search ::placeholder {
+  font-size: 1.25em;
+  padding-left: 10px;
+}
+
+.sign-login-txt {
+  display: inline;
+  color: lightblue;
+}
+
+.sign-login-txt a {
+  text-decoration: none;
+  color: lightblue;
+}
+
+.login-img {
+  height: 40px;
+  width: auto;
+  padding-left: 10px;
+}
+
+.npm-logo {
+  float: left;
+}
+
+.sign-login {
+  float: right;
+  margin: 10px 20px;  
+}
+
+.header {
+  background-image: url(img/city-scape.svg); 
+  height: 500px;
+}
+
+.header-body { 
+  width: 50%;
+  margin: 80px auto 0 150px;
+  color: white;  
+}
+
+.header-body h1 {
+  font-size: 3.5em;
+}
+
+.header-body p {
+  font-size: 1.5em;
+}
+
+.header-body a {  
+  color: white;
+}
+
+.header-body p {
+  padding-bottom: 25px;
+}
+
+.header-btn {
+  background-color: rgb(240, 146, 51);
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 20px;
+}
+
+.orgs {
+  height: 500px;
+  background-color: rgb(39, 53, 71);  
+}
+
+.orgs a {  
+  color: white;
+  text-decoration: none;
+}
+
+.orgs-img { 
+  height: 300px;
+  width: auto;
+  margin: 100px 0 auto 190px;
+}
+
+.orgs-txt {
+  width: 40%;
+  float: right;
+  margin: 100px 190px auto 0;
+  color: white;
+}
+
+.orgs-txt h1 {
+  font-size: 3em;
+  margin: 0;
+  padding-bottom: 15px;
+}
+
+.orgs-txt li {
+  font-size: 1.5em;
+  padding-bottom: 15px;
+}
+
+.orgs-btn {
+  background-color: rgb(203, 56, 55);
+  padding: 10px 20px;
+  text-decoration: none;  
+  border-radius: 25px;
+}
+
+.orgs p {
+  font-size: 1.5em;
+  margin-bottom: 0;
+  margin-top: 5px;
+}
+
+.what-is {
+  background-image: url(img/forklift.svg);
+  background-size: cover;
+  height: 500px;
+  color: white;
+  position: relative;
+}
+
+.what-is-heading {
+  margin: 0;
+}
+
+.what-is h1 {
+  font-size: 2.5em;
+}
+
+.what-is p {
+  font-size: 1.25em;
+}
+
+.what-is a {
+  font-size: 1.5em;
+  text-decoration: none;
+  color: white;
+}
+
+.what-is p {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.what-is-btn {
+  background-color: rgb(49, 68, 88);
+  padding: 10px 20px;
+  border-radius: 25px;
+}
+
+.what-is-txt {
+  width: 400px;
+  position: absolute;
+  top: 100px;
+  left: 120px;
+}
+
+.what-can-top-txt {
+  width: 1200px;
+  margin: 0 auto;  
+}
+
+.what-can-top-txt h1 {
+  text-align: center;
+  margin: 0;
+  padding-top: 60px;
+  color: rgb(83, 88, 98);
+  font-size: 1.8em;
+}
+
+.what-can-top-txt p {
+  text-align: center;
+  color: rgb(135, 145, 156);
+  font-size: 1.3em;
+}
+
+.fdb-block {
+  width: 33%;
+  display: inline-block;  
+}
+
+.fdb-block .fdb-img {  
+  margin-left: 40%;
+}
+
+.fdb-block h2 {
+  text-align: center;
+  color: rgb(83, 88, 98);
+}
+
+.fdb-block p {
+  margin: 30px 100px;
+  color: rgb(135, 145, 156);
+  font-size: 1.25em;
+  text-align: center;
+}
+
+.fdb-block a {
+  text-decoration: none;
+  color: rgb(208, 74, 73);  
+}
+
+
+.clearfix {
+  clear: both;
+}
+
+
+
+
